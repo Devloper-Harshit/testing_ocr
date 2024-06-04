@@ -49,5 +49,13 @@
     "i": "^0.3.7",
     "react-router-dom": "^6.23.1",
     "renpm": "^0.0.6"
-  }
+  },
+
+ 
+  "Camera": "http://sonamtiwari.com/Camera",
+  "Home": "http://sonamtiwari.com/",
+  "Login": "http://sonamtiwari.com/Login",
+  "Register": "http://sonamtiwari.com/Register",
+  "OCR": "http://sonamtiwari.com/OCR",
+  "NoPage": "http://sonamtiwari.com/*"
 }
